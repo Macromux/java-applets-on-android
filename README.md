@@ -5,8 +5,8 @@ On web-browsers that support applets(java)__
 > Several applets are deprecated, due to the removal of Java plug-in support
 > from modern browsers and Oracle JDK/JRE.
 ##
-- Run Java Applets, Which have been deprecated from most browsers, on Android(Termux+Acode+Kiwi Browser); 
-
+_Run Java Applets, Which have been deprecated from most browsers, on Android(Termux+Acode+Kiwi Browser)_; 
+##
 ## Installation
 > F-droid dowload from [*here*](https://f-droid.org/F-Droid.apk)
 ##
