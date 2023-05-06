@@ -126,7 +126,12 @@ _Give Y as input when promted_
 }
 </details>
 
+***
+
 ### Setup Acode
 
 __*Open *Acode* App__
 
+![Acode](assests/com.foxdebug.acode.jpg)
+
+_Select a Directory as root Directory for Acode_.
