@@ -134,6 +134,6 @@ __*Open *Acode* App__
 
 ![Acode](assests/com.foxdebug.acode.jpg)
 
-_Go to (Three-dots>Files), Select a Directory as root Directory for Acode_.
-Where your files are kept.
+_Go to (Three-dots>Files), Select a Directory as root Directory for Acode.
+Where your files are kept_.
 
