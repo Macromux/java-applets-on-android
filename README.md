@@ -12,7 +12,7 @@ __Run Java Applets, Which have been deprecated from most browsers, on Android__(
 ## Installation
 > __Dowload f-droid from [*here*](https://f-droid.org/F-Droid.apk)__
 >
-<details>
+<details open>
 <summary>Termux</summary></br>
 
  [__Termux Download__](https://f-droid.org/repo/com.termux_118.apk)
@@ -25,7 +25,7 @@ through the application's package manager.
 </details>
 
 ##
-<details>
+<details open>
 <summary>Acode</summary></br>
 
  [__Acode Download__](https://f-droid.org/repo/com.foxdebug.acode_272.apk)
@@ -42,7 +42,7 @@ Python, PHP, Java, and C ++, for example.
 </details>
 
 ##
-<details>
+<details open>
 <summary>Kiwi Browser</summary></br>
 
  [__Kiwi Browser Download__](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
@@ -80,12 +80,22 @@ __Type The Following Commands__ :-
 `apt update && apt upgrade`
 
 _Give Y as input when promted_
+##
+`termux-setup-storage`
+> run this command two times
 
+_Give Y as input when promted_
+##
 `pkg install openjdk-17`
 > Install's Java and Java Compiler (javac)
+
+`cd {You Working directory for Java}`
+> Make a directory in Internal storage(/storage/emulated/0/) for easy access
 ***
-Example HelloWorld.java:
- ``` java
+<details>
+<summary>Example HelloWorld.java:</summary></br>
+ 
+``` java
  import java.applet.*;
  import java.awt.Graphics;
 
@@ -94,9 +104,13 @@ Example HelloWorld.java:
      g.drawString("Hello, World !", 50, 50);
    }
  }   
-  ```
+```
 
-Example Hello.html {
+</details>
+
+<details>
+<summary>Example Hello.html</summary></br>{
+
 ``` html
 <html>
 <head>
@@ -110,6 +124,7 @@ Example Hello.html {
 </html>
 ```
 }
+</details>
 
 ### Setup Acode
 
