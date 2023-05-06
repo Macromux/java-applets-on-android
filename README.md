@@ -82,15 +82,13 @@ __Type The Following Commands__ :-
 _Give Y as input when promted_
 ##
 `termux-setup-storage`
-> run this command two times
+> Run this command two times.
 
 _Give Y as input when promted_
 ##
 `pkg install openjdk-17`
-> Install's Java and Java Compiler (javac)
+> Install's Java and Java Compiler (javac).
 
-`cd {You Working directory for Java}`
-> Make a directory in Internal storage(/storage/emulated/0/) for easy access
 ***
 <details>
 <summary>Example HelloWorld.java:</summary></br>
@@ -126,6 +124,16 @@ _Give Y as input when promted_
 }
 </details>
 
+`cd {You Working directory for Java}`
+> Make a directory in Internal storage(/storage/emulated/0/) for easy access.
+##
+`javac *.java`
+
+**Or**
+
+`javac HelloWorld.java`
+> This Generates a HelloWorld.class File(.class).
+
 ***
 
 ### Setup Acode
@@ -134,6 +142,6 @@ __*Open *Acode* App__
 
 ![Acode](assests/com.foxdebug.acode.jpg)
 
-_Go to (Three-dots>Files), Select a Directory as root Directory for Acode.
+_Go to (Three-dots/Files), Select a Directory as root Directory for Acode.
 Where your files are kept_.
 
