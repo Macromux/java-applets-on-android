@@ -145,5 +145,7 @@ __*Open *Acode* App__
 
 _Go to (Three-dots/Files), Select a Directory as root Directory for Acode.
 Where your files are kept_.
+##
+__*Run *HTML* file__
 
-![Acode1](
+![Acode1](assests/com.foxdebug.acode1.jpg)
