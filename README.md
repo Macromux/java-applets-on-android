@@ -10,7 +10,7 @@ On web-browsers that support applets(java)__
 ## Installation
 > F-droid dowload from [*here*](https://f-droid.org/F-Droid.apk)
 ##
-<details open>
+<details>
 <summary>Termux</summary><br>
 
  [__Termux Download__](https://f-droid.org/repo/com.termux_118.apk)
@@ -20,4 +20,20 @@ environment on an Android device.
 
 - In addition, various software can be installed 
 through the application's package manager.
+</details>
+
+<details>
+<summary>Acode</summary><br>
+
+ [__Acode Download__](https://f-droid.org/repo/com.foxdebug.acode_272.apk)
+- Acode is a code editor that's as powerful as 
+it is lightweight, designed to help you edit HTML, text, and JavaScript 
+from the comfort of your Android smartphone. 
+With this app, you can create and manage websites 
+or edit any file you want in Python, CSS, HTML, Java, JavaScript, Dart, and more.
+
+- Keep in mind that even though you can only run 
+programs in HTML, MarkDown, and JavaScript, 
+you can use Termux to execute programs in 
+Python, PHP, Java, and C ++, for example.
 </details>
