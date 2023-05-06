@@ -62,8 +62,13 @@ work on Kiwi.
 
   __*Open *Kiwi Browser* App__
 
-Open This([*LINK*](https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein/related)) in Kiwi-Browser,
+##
+ [(__Crome Extentions__)](https://chrome.google.com/webstore/category/extensions)
+
+- Open This ([*LINK*](https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein/related)) in Kiwi-Browser,
 To Dowload `CheerpJ Applet Runner` extention.
-> CheerpJ Applet Runner extension for Chrome and Edge, 
+> CheerpJ Applet Runner extension for Chrome and Edge, \
 allows you to run Java Applets without a Java 
-plugin or installation.
+plugin or installation. \
+[CheerpJ Applet Runner](https://chrome-stats.com/d/bbmolahhldcbngedljfadjlognfaaein/download)
+##
