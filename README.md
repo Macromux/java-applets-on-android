@@ -63,6 +63,7 @@ work on Kiwi.
 
   __*Open *Kiwi Browser* App__
 
+![Image](assests/com.kiwibrowser.browser.jpg)
 
 
 
