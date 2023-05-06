@@ -59,11 +59,11 @@ work on Kiwi.
 
 ***
 ### Kiwi Browser Setup
-</br>
 
   __*Open *Kiwi Browser* App__
 
-![Image](assests/com.kiwibrowser.browser.jpg)
-
-
-
+Open This([*LINK*](https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein/related)) in Kiwi-Browser,
+To Dowload `CheerpJ Applet Runner` extention.
+> CheerpJ Applet Runner extension for Chrome and Edge, 
+allows you to run Java Applets without a Java 
+plugin or installation.
