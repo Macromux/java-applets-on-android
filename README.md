@@ -70,7 +70,7 @@ To Dowload `CheerpJ Applet Runner` extention.
 allows you to run Java Applets without a Java 
 plugin or installation. \
 [CheerpJ Applet Runner](https://chrome-stats.com/d/bbmolahhldcbngedljfadjlognfaaein/download)
-##
+***
 ### Setup Termux
 
 __*Open *Termux* App__
@@ -83,7 +83,7 @@ _Give Y as input when promted_
 
 `pkg install openjdk-17`
 > Install's Java and Java Compiler (javac)
-##
+***
 Example HelloWorld.java:
  ``` java
  import java.applet.*;
@@ -110,6 +110,8 @@ Example Hello.html {
 </html>
 ```
 }
-##
 
+### Setup Acode
+
+__*Open *Acode* App__
 
