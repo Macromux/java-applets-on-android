@@ -13,7 +13,7 @@ __Run Java Applets, Which have been deprecated from most browsers, on Android__(
 > __Dowload f-droid from [*here*](https://f-droid.org/F-Droid.apk)__
 >
 <details>
-<summary>Termux</summary><br>
+<summary>Termux</summary></br>
 
  [__Termux Download__](https://f-droid.org/repo/com.termux_118.apk)
 - Termux is a free and open-source terminal emulator 
@@ -26,7 +26,7 @@ through the application's package manager.
 
 ##
 <details>
-<summary>Acode</summary><br>
+<summary>Acode</summary></br>
 
  [__Acode Download__](https://f-droid.org/repo/com.foxdebug.acode_272.apk)
 - Acode is a code editor that's as powerful as 
@@ -43,7 +43,7 @@ Python, PHP, Java, and C ++, for example.
 
 ##
 <details>
-<summary>Kiwi Browser</summary><br>
+<summary>Kiwi Browser</summary></br>
 
  [__Kiwi Browser Download__](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 - Kiwi Browser for Android is a popular Chromium-based 
@@ -55,10 +55,10 @@ browser on Android has — support for desktop
 Chrome extensions. That's right, nearly 
 every extension that works on Chrome will 
 work on Kiwi.
-***
 </details>
 
+***
+### Termux Setup;
 
 
-## Termux
 
