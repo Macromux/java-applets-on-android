@@ -58,7 +58,11 @@ work on Kiwi.
 </details>
 
 ***
-### Termux Setup;
+### Kiwi Browser Setup
+</br>
+
+  __*Open *Kiwi Browser* App__
+
 
 
 
