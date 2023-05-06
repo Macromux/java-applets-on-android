@@ -137,7 +137,7 @@ _Give Y as input when promted_
 ***
 
 ### Setup Acode
-
+**You can even Install Extentions for Acode** ([Extentipns]())
 __*Open *Acode* App__
 
 ![Acode](assests/com.foxdebug.acode.jpg)
