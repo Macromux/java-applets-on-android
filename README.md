@@ -83,18 +83,33 @@ _Give Y as input when promted_
 
 `pkg install openjdk-17`
 > Install's Java and Java Compiler (javac)
-
-
+##
 Example HelloWorld.java:
-``` java
-import java.applet.*;
-import java.awt.Graphics;
+ ``` java
+ import java.applet.*;
+ import java.awt.Graphics;
 
-public class Input extends Applet{
-  public void paint(Graphics g){
-    g.drawString("Hello, World !", 50, 50);
-  }
-}   
+ public class HelloWorld extends Applet{
+   public void paint(Graphics g){
+     g.drawString("Hello, World !", 50, 50);
+   }
+ }   
   ```
+
+Example Hello.html {
+``` html
+<html>
+<head>
+<title> A Simple Program </title>
+</head>
+<body>
+
+<applet CODE="HelloWorld.class" WIDTH=500 HEIGHT=500>
+</applet>
+</body> 
+</html>
+```
+}
+##
 
 
