@@ -8,7 +8,7 @@ On web-browsers that support applets(java)__
 - Run Java Applets, Which have been deprecated from most browsers, on Android(Termux+Acode+Kiwi Browser); 
 
 ## Installation
-F-droid dowload from [here](https://f-droid.org/F-Droid.apk)
+> F-droid dowload from [*here*](https://f-droid.org/F-Droid.apk)
 <details>
 <summary>Termux</summary>
 
