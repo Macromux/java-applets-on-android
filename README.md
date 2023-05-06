@@ -8,7 +8,7 @@ On web-browsers that support applets(java)__
 #### Description
 __Run Java Applets, Which have been deprecated from most browsers, on Android__([Termux](https://termux.dev/en/)+[Acode](https://acode.foxdebug.com/)+[Kiwi Browser](https://kiwibrowser.com/)); 
 
-##
+***
 ## Installation
 > __Dowload f-droid from [*here*](https://f-droid.org/F-Droid.apk)__
 >
@@ -58,12 +58,11 @@ work on Kiwi.
 </details>
 
 ***
-### Kiwi Browser Setup
+### Setup Kiwi Browser
 
-  __*Open *Kiwi Browser* App__
-
+__*Open *Kiwi Browser* App__
 ##
- [(__Crome Extentions__)](https://chrome.google.com/webstore/category/extensions)
+([__Crome Extentions__](https://chrome.google.com/webstore/category/extensions))
 
 - Open This ([*LINK*](https://chrome.google.com/webstore/detail/cheerpj-applet-runner/bbmolahhldcbngedljfadjlognfaaein/related)) in Kiwi-Browser,
 To Dowload `CheerpJ Applet Runner` extention.
@@ -72,3 +71,30 @@ allows you to run Java Applets without a Java
 plugin or installation. \
 [CheerpJ Applet Runner](https://chrome-stats.com/d/bbmolahhldcbngedljfadjlognfaaein/download)
 ##
+### Setup Termux
+
+__*Open *Termux* App__
+
+__Type The Following Commands__ :-
+
+`apt update && apt upgrade`
+
+_Give Y as input when promted_
+
+`pkg install openjdk-17`
+> Install's Java and Java Compiler (javac)
+
+
+Example HelloWorld.java:
+``` java
+import java.applet.*;
+import java.awt.Graphics;
+
+public class Input extends Applet{
+  public void paint(Graphics g){
+    g.drawString("Hello, World !", 50, 50);
+  }
+}   
+  ```
+
+
