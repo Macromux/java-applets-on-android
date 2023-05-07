@@ -116,6 +116,8 @@ _Give Y as input when promted_
 </head>
 <body>
 
+<p>This is the output of Java Applet: </p>
+
 <applet CODE="HelloWorld.class" WIDTH=500 HEIGHT=500>
 </applet>
 </body> 
@@ -149,3 +151,5 @@ Where your files are kept_.
 __*Run *HTML* file__
 
 ![Acode1](assests/com.foxdebug.acode1.jpg)
+
+_Select "open with Kiwi-Browser" option_.
