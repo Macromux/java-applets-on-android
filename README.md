@@ -71,7 +71,7 @@ allows you to run Java Applets without a Java
 plugin or installation. \
 [CheerpJ Applet Runner](https://chrome-stats.com/d/bbmolahhldcbngedljfadjlognfaaein/download)
 
-[Kiwi-Browser]
+![Kiwi-Browser1](assests/com.kiwibrowser.browser1.jpg)
 ***
 ### Setup Termux
 
@@ -158,10 +158,13 @@ _Select "open with Kiwi-Browser" option_.
 ##
 __*Select Cheerpj Applet Runner Extention__
 
-![Kiwi-Browser](assests/com.kiwibrowser.browser2.jpg)
+![Kiwi-Browser2](assests/com.kiwibrowser.browser2.jpg)
 
 _This will Load a CherrpJ settings. 
 Click the back button And CheerpJ will be Initialized_.
 ##
 __*Output__
 
+![Kiwi-Browser3](assests/com.kiwibrowser.browser3.jpg)
+
+***
