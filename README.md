@@ -90,20 +90,23 @@ _Give Y as input when promted_
 ##
 `pkg install openjdk-17`
 > Install's Java and Java Compiler (javac).
+##
+`cd {You Working directory for Java}`
+> Make a directory in Internal storage(/storage/emulated/0/) for easy access.
 
-***
+##
 <details>
 <summary>Example HelloWorld.java:</summary></br>
  
 ``` java
- import java.applet.*;
- import java.awt.Graphics;
+import java.applet.*;
+import java.awt.Graphics;
 
- public class HelloWorld extends Applet{
-   public void paint(Graphics g){
-     g.drawString("Hello, World !", 50, 50);
-   }
- }   
+public class HelloWorld extends Applet{
+  public void paint(Graphics g){
+    g.drawString("Hello, World !", 50, 50);
+  }
+}   
 ```
 
 </details>
@@ -128,8 +131,6 @@ _Give Y as input when promted_
 }
 </details>
 
-`cd {You Working directory for Java}`
-> Make a directory in Internal storage(/storage/emulated/0/) for easy access.
 ##
 `javac *.java`
 
