@@ -153,3 +153,13 @@ __*Run *HTML* file__
 ![Acode1](assests/com.foxdebug.acode1.jpg)
 
 _Select "open with Kiwi-Browser" option_.
+##
+__*Select Cheerpj Applet Runner Extention__
+
+![Kiwi-Browser](assests/com.kiwibrowser.browser2.jpg)
+
+_This will Load a CherrpJ settings. 
+Click the back button And CheerpJ will be Initialized_.
+##
+__*Output__
+
