@@ -70,6 +70,8 @@ To Dowload `CheerpJ Applet Runner` extention.
 allows you to run Java Applets without a Java 
 plugin or installation. \
 [CheerpJ Applet Runner](https://chrome-stats.com/d/bbmolahhldcbngedljfadjlognfaaein/download)
+
+[Kiwi-Browser]
 ***
 ### Setup Termux
 
