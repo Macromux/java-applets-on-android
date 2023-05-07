@@ -170,13 +170,13 @@ __*Output__
 <details>
 <summary>Configure Acode With Termux (optional)</summary></br>
 
-__*Open Acode__
+__*Open *Acode*__
 
 ![Acode2](assests/com.foxdebug.acode2.jpg)
 
 _Install The AcodeX plugin_.
 ##
-__*Open Termux__
+__*Open *Termux*__
 
 __Paste The following Commands__:
 
@@ -192,7 +192,7 @@ __If Installed Succesfully__:
 >  _This will lauch connection from Termux_
 ##
 
-__*Open Acode__
+__*Open *Acode*__
 
 ![Acode3](assests/com.foxdebug.acode3.jpg)
 
