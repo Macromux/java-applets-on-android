@@ -12,7 +12,7 @@ __Run Java Applets, Which have been deprecated from most browsers, on Android__(
 ## Installation
 > __Dowload f-droid from [*here*](https://f-droid.org/F-Droid.apk)__
 >
-<details open>
+<details>
 <summary>Termux</summary></br>
 
  [__Termux Download__](https://f-droid.org/repo/com.termux_118.apk)
@@ -25,7 +25,7 @@ through the application's package manager.
 </details>
 
 ##
-<details open>
+<details>
 <summary>Acode</summary></br>
 
  [__Acode Download__](https://f-droid.org/repo/com.foxdebug.acode_272.apk)
@@ -42,7 +42,7 @@ Python, PHP, Java, and C ++, for example.
 </details>
 
 ##
-<details open>
+<details>
 <summary>Kiwi Browser</summary></br>
 
  [__Kiwi Browser Download__](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
