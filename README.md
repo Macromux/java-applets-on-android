@@ -166,7 +166,7 @@ Click the back button And CheerpJ will be Initialized_.
 __*Output__
 
 ![Kiwi-Browser3](assests/com.kiwibrowser.browser3.jpg)
-
+</br>
 <details>
 <summary>Configure Acode With Termux (optional)</summary></br>
 
@@ -178,16 +178,28 @@ _Install The AcodeX plugin_.
 ##
 __*Open Termux__
 
-Paste The following Commands:
+__Paste The following Commands__:
 
 `pkg install curl`
 
 `curl -sL https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main/installServer.sh | bash`
+
+_This will setup and install AcodeX_. 
+
+__If Installed Succesfully__:
+
+  `AcodeX`
+>  _This will lauch connection from Termux_
 ##
 
 __*Open Acode__
 
+![Acode3](assests/com.foxdebug.acode3.jpg)
 
+__*Output__
+
+___You'r termux terminal will be launched from Acode.. \
+You can give commands directly from here..___
 </details>
 
 ***
