@@ -168,3 +168,14 @@ __*Output__
 ![Kiwi-Browser3](assests/com.kiwibrowser.browser3.jpg)
 
 ***
+<details>
+<summary>Configure Acode With Termux (optional)</summary></br>
+
+#### Step 1
+
+*Open Acode
+
+
+
+</details>
+
