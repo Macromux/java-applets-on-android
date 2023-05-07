@@ -167,15 +167,27 @@ __*Output__
 
 ![Kiwi-Browser3](assests/com.kiwibrowser.browser3.jpg)
 
-***
 <details>
 <summary>Configure Acode With Termux (optional)</summary></br>
 
-#### Step 1
+__*Open Acode__
 
-*Open Acode
+![Acode2](assests/com.foxdebug.acode2.jpg)
 
+_Install The AcodeX plugin_.
+##
+__*Open Termux__
+
+Paste The following Commands:
+
+`pkg install curl`
+
+`curl -sL https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main/installServer.sh | bash`
+##
+
+__*Open Acode__
 
 
 </details>
 
+***
